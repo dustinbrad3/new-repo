@@ -2,7 +2,7 @@
 * Name             : AddAccountToContact
 * Created By       : Dustin Jensen
 * Created Date     : 28 Dec 2017
-* Purpose          : Add existing account to contact
+* Purpose          : Add existing account to it's respective contact
 *****************************************************************************/
 public class AddAccountToContact {
     
